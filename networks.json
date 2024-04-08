@@ -1,0 +1,8 @@
+{
+  "zkyoto-testnet": {
+    "UserRegistry": {
+      "address": "0x7b78b45671C2F5D34592612eDd6316c6EC1dbE32",
+      "startBlock": 1287372
+    }
+  }
+}
