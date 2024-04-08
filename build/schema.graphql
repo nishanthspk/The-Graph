@@ -1,0 +1,8 @@
+type UserRegistered @entity(immutable: true) {
+  id: Bytes!
+  userId: String! # string
+  mainAddress: Bytes! # address
+  blockNumber: BigInt!
+  blockTimestamp: BigInt!
+  transactionHash: Bytes!
+}
